@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Exterior",
+    "photos": [
+      {
+        "asset": "assets/samples/cooks.png",
+        "title": "Our cooks"
+      },
+      {
+        "asset": "assets/samples/croissant.png",
+        "title": "A beautiful croissant"
+      },
+      "assets/samples/staff.png",
+      {
+        "asset": "assets/samples/cooks.png"
+      }
+    ]
+  },
+  {
+    "name": "Interior",
+    "photos": [
+      "assets/samples/croissant.png",
+      "assets/samples/cooks.png",
+      "assets/samples/cooks.png",
+      "assets/samples/staff.png"
+    ]
+  },
+  {}
+]
