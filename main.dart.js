@@ -78918,7 +78918,7 @@ H(a,b){var s,r,q=null
 A.bA(b,B.R,t.Y).toString
 s=A.qB(A.bK(A.bY("About us",q,"about",A.a([],t.f),q),q,q,q,q,q,q,q))
 r=A.rH()
-return A.tP(s,A.asB(new A.a08(),A.aSw(A.ng("https://api.pocketgourmet.app/about",0,q)),t.Wd),r)}}
+return A.tP(s,A.asB(new A.a08(),A.aSw(A.ng("https://api.pocketgourmet.app/about/",0,q)),t.Wd),r)}}
 A.a08.prototype={
 $2(a,b){var s,r=null,q=b.b
 if(q==null)s="Loading\u2026"
@@ -78931,7 +78931,7 @@ $1(a){var s=a.h(0,2)
 s.toString
 if(B.b.bo(s,"http")){s=a.h(0,0)
 s.toString
-return s}else return A.d(a.h(0,1))+"(https://api.pocketgourmet.app/about/"+A.d(a.h(0,2))+")"},
+return s}else return A.d(a.h(0,1))+"(https://api.pocketgourmet.app/about//"+A.d(a.h(0,2))+")"},
 $S:62}
 A.ts.prototype={}
 A.a2h.prototype={
